@@ -94,6 +94,7 @@ This function is used only for visualization purposes. You don’t have to push 
 ---
 
 <br>
+
 ## Mandatory Tasks
 
 ### 0. New node
@@ -392,7 +393,7 @@ Is 402 a root: 0
 alex@/tmp/binary_trees$
 ```
 
-** File:** [5-binary_tree_is_root.c](5-binary_tree_is_root.c)
+**File:** [5-binary_tree_is_root.c](5-binary_tree_is_root.c)
  
 ### 6. Pre-order traversal
 
@@ -1282,7 +1283,7 @@ alex@/tmp/binary_trees$ valgrind ./101-lvl
 ==23445== For counts of detected and suppressed errors, rerun with: -v
 ==23445== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 alex@/tmp/binary_trees$
-
+```
 **File:** [101-binary_tree_levelorder.c](101-binary_tree_levelorder.c)
 
 ### 21. Is complete
